@@ -7,7 +7,7 @@
   $kondisi = "";
 
   if ($mesin && $body) {
-      $kondisi "Bagus";
+      $kondisi = "Bagus";
   }else if($mesin || $body){
       $kondisi = "Menengah";
   }else{
