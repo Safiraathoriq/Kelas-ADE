@@ -13,7 +13,7 @@
         'name' => 'Safira Salsabila Athoriq',
         'email' => 'safiraathoriq@gmail.com',
         'phone' => '081459182569',
-        'hobbies' => ['menggambar', 'membaca'],
+        'hobbies' => ['drawing', 'reading a book'],
       ];
 
     echo "Hai Perkenalkan nama saya ". $employee['name']; 
